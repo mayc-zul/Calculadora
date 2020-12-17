@@ -1,0 +1,26 @@
+section .container{
+    min-width: 1000px;
+}
+.resultado{
+    font-size: 30px;
+    font-weight: inherit;
+    float: right;
+    padding-right: 15px;
+}
+
+.table td{
+    border: 0px solid #dee2e6
+}
+
+button.rad{
+    color: white;
+    border: solid 2px black;
+} 
+
+button.deg{
+    color:black;
+}
+button.deg:hover{
+    color:black;
+}
+
